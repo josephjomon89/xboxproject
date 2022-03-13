@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="26158" started-at="2022-03-12T20:12:17 CST" finished-at="2022-03-12T20:12:43 CST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="26158" started-at="2022-03-12T20:12:17 CST" finished-at="2022-03-12T20:12:43 CST">
+      <class name="com.xbox.qa.testcases.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.xbox.qa.testcases.HomePageTest@53f65459]" name="setUp" is-config="true" duration-ms="5236" started-at="2022-03-12T20:12:17 CST" finished-at="2022-03-12T20:12:22 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="selectLeaderBoardPage()[pri:0, instance:com.xbox.qa.testcases.HomePageTest@53f65459]" name="selectLeaderBoardPage" duration-ms="1675" started-at="2022-03-12T20:12:22 CST" finished-at="2022-03-12T20:12:24 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectLeaderBoardPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.xbox.qa.testcases.HomePageTest@53f65459]" name="tearDown" is-config="true" duration-ms="713" started-at="2022-03-12T20:12:24 CST" finished-at="2022-03-12T20:12:24 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.xbox.qa.testcases.HomePageTest@53f65459]" name="setUp" is-config="true" duration-ms="4254" started-at="2022-03-12T20:12:24 CST" finished-at="2022-03-12T20:12:29 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateGamesTitleTest()[pri:0, instance:com.xbox.qa.testcases.HomePageTest@53f65459]" name="validateGamesTitleTest" duration-ms="3601" started-at="2022-03-12T20:12:29 CST" finished-at="2022-03-12T20:12:32 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateGamesTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.xbox.qa.testcases.HomePageTest@53f65459]" name="tearDown" is-config="true" duration-ms="702" started-at="2022-03-12T20:12:32 CST" finished-at="2022-03-12T20:12:33 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.xbox.qa.testcases.HomePageTest@53f65459]" name="setUp" is-config="true" duration-ms="2679" started-at="2022-03-12T20:12:33 CST" finished-at="2022-03-12T20:12:35 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyHomePageTest()[pri:0, instance:com.xbox.qa.testcases.HomePageTest@53f65459]" name="verifyHomePageTest" duration-ms="48" started-at="2022-03-12T20:12:35 CST" finished-at="2022-03-12T20:12:36 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.xbox.qa.testcases.HomePageTest@53f65459]" name="tearDown" is-config="true" duration-ms="665" started-at="2022-03-12T20:12:36 CST" finished-at="2022-03-12T20:12:36 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.xbox.qa.testcases.HomePageTest -->
+      <class name="com.xbox.qa.testcases.LeaderBoardPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.xbox.qa.testcases.LeaderBoardPageTest@86be70a]" name="setUp" is-config="true" duration-ms="3414" started-at="2022-03-12T20:12:36 CST" finished-at="2022-03-12T20:12:40 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ValidateGameTagsTest()[pri:0, instance:com.xbox.qa.testcases.LeaderBoardPageTest@86be70a]" name="ValidateGameTagsTest" duration-ms="2459" started-at="2022-03-12T20:12:40 CST" finished-at="2022-03-12T20:12:42 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateGameTagsTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.xbox.qa.testcases.LeaderBoardPageTest@86be70a]" name="tearDown" is-config="true" duration-ms="663" started-at="2022-03-12T20:12:42 CST" finished-at="2022-03-12T20:12:43 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.xbox.qa.testcases.LeaderBoardPageTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
